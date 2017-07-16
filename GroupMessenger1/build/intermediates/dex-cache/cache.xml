@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sourav/Documents/Distributed_Systems/PA2/GroupMessenger1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dd7de4e8b9199763a66ecb4a699119c47342ffa6">
+        <dex dex="/home/sourav/Documents/Distributed_Systems/PA2/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run_17466ede6c7b56f51b826f661b84bf64ccc1e24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sourav/Documents/Distributed_Systems/PA2/GroupMessenger1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="579d3b40c9027339fa11db0ac6d1a3f21a4976b0">
+        <dex dex="/home/sourav/Documents/Distributed_Systems/PA2/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4a66cf12d16d0f77e159c03ac63cb5e82100daa1.jar" />
+    </item>
+
+</items>
